@@ -1,0 +1,19 @@
+{
+  "name": "terrionics-overseer",
+  "version": "0.0.1",
+  "description": "This a general purpose manager for the TerrionicsMod.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DankStrangePlant/TerrionicsOverseer.git"
+  },
+  "author": "Donnie Jones\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DankStrangePlant/TerrionicsOverseer/issues"
+  },
+  "homepage": "https://github.com/DankStrangePlant/TerrionicsOverseer#readme"
+}
